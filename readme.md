@@ -1,5 +1,3 @@
-# Creating a markdown file with the JavaScript roadmap content
-
 # JavaScript Learning Roadmap (Focused for Experienced Developers)
 
 ## **Week 1: Intermediate JavaScript Refreshers**
