@@ -1,5 +1,7 @@
 // * Example 1
-// * Here, count is preserved across function calls because the returned function forms a closure over count.
+/**
+ * * Here, count is preserved across function calls because the returned function forms a closure over count.
+ * **/
 
 const createCounter = () => {
   let count = 0; // Outer variable
